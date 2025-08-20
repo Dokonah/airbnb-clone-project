@@ -4,8 +4,8 @@ ALX StayEase: Airbnb Clone Project
 # Project Overview
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
-# Projrct Goals
-* By completing this project, I will:
+# Projret Goals
+By completing this project, I will:
 * Learn to implement responsive UI/UX designs
 * Understand how to structure a complex web application
 * Practice working in a team with defined roles
