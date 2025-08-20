@@ -41,20 +41,19 @@ This project is a full-stack clone of the popular accommodation booking platform
 ## Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
-## Figma Design Specifications
-### Color Styles:
+## Color Styles:
 * Primary:        `#FF5A5F`
 * Secondary:      `#008489`
 * Background:     `#FFFFFF`
 * Text:           `#222222`
 * Secondary Text: `#717171`
 
-### Typography:
+## Typography:
 * Primary Font: Circular, Medium (500), 16px
 * Headings: Circular, Bold (700), 24px-32px
 * Secondary Text: Circular, Book (400), 14px
 
-###  importance of identifying design properties of a mock up design
+##  importance of identifying design properties of a mock up design
 Gives a Realistic Perspective: Mockups provide a realistic view of the design, allowing you to identify even the smallest errors. Helps Visualize the Vision: Seeing the final product in a mockup can reveal aspects that may be off or need further adjustment in the design.
 
 # Project Roles and Responsibilities
